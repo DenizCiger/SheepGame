@@ -1,0 +1,25 @@
+{
+  "name": "cattle",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "server": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "express": "^5.1.0",
+    "three": "^0.175.0",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "vite": "^6.3.2"
+  }
+}
