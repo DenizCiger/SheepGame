@@ -109,5 +109,5 @@ export const MUSIC = {
 
 // AI settings
 export const AI = {
-    COUNT: 50, // Number of AI sheep to spawn
+    COUNT: 0, // Number of AI sheep to spawn
 };
